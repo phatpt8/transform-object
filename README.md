@@ -1,3 +1,6 @@
+![Issues](https://img.shields.io/github/issues/phatpt8/transform-object.svg?style=flat-square)
+![Tweets](https://img.shields.io/twitter/url/https/github.com/phatpt8/transform-object.svg?style=social)
+
 # TransformObject
 
 A utility class that help transform Object data to array of pairs to support React UI loop.
@@ -29,6 +32,8 @@ When using React, sometimes you will face some UI challenges. Take this as an ex
       );
     }
   }
+```
+```jsx
   // How can you achieve this:
   class ReactComponent {
     render() {
